@@ -3,11 +3,17 @@
     "expandable-chapters-small",
     "etoc",
     "splitter", 
-    "todo"
+    "todo",
+    "comments-footer"
   ],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": true
+    },
+    "comments-footer": {
+      "type": "github",
+      "repo": "morningspace/lab-monitoring",
+      "copyright": "Copyright © MorningSpace"
     }
   }
 }
