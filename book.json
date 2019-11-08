@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "expandable-chapters-small",
+    "etoc",
+    "splitter", 
+    "todo"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
