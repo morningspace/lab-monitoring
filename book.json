@@ -1,19 +1,45 @@
 {
+  "title": "Monitoring Lab - 晴耕小筑",
+  "author": "MorningSpace",
+  "language": "en",
+  "links" : {
+    "sidebar" : {
+      "About Me<img style='vertical-align:middle;width:32px;margin:0 5px;' src=https://morningspace.github.io/assets/images/bio-photo.png>" : "https://morningspace.github.io"
+    }
+  },
   "plugins": [
-    "expandable-chapters-small",
+    "anchors",
+    "comments-footer",
+    "creativecommons",
+    "github",
+    "github-buttons",
     "etoc",
+    "expandable-chapters-small",
+    "page-footer-ex",
     "splitter", 
-    "todo",
-    "comments-footer"
+    "todo"
   ],
   "pluginsConfig": {
-    "theme-default": {
-      "showLevel": true
-    },
     "comments-footer": {
       "type": "github",
       "repo": "morningspace/lab-monitoring",
-      "copyright": "Copyright © MorningSpace"
+      "copyright": "MorningSpace"
+    },
+    "github": {
+      "url": "https://github.com/morningspace/lab-monitoring"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "morningspace",
+        "repo": "lab-monitoring",
+        "type": "star",
+        "count": false,
+        "size": "small"
+      }]
+    },
+    "page-footer-ex": {
+      "copyright":"By <a href=http://morningspace.github.io>MorningSpace</a>",
+      "update_label": "Updated: "
     }
   }
 }
