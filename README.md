@@ -12,4 +12,4 @@
 {% creativecommons type="by-sa", iconSize="compact" %}
 {% endcreativecommons %}
 
-<img src="docs/monitoring.svg" width="480" />
+<center><img src="docs/monitoring.svg" width="380" /></center>
