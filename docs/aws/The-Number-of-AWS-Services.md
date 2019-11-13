@@ -10,7 +10,7 @@ As of the current date (Nov 2019), there are currently *147* top level services 
 
 You can see all the services by logging into the AWS Console. Here is a snapshot that I took on my console:
 
-![](AWS-Services.png)
+![](aws-services.png)
 
 ## Resources
 
